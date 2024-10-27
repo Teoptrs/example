@@ -1,0 +1,5 @@
+Student name: Teo Peeters 
+Student number: 733736
+Student class: HAIT24FT1D
+GitHub Repository: https://github.com/Teoptrs/Teo_webdesign.github.io
+GitHub Pages URL: https://teoptrs.github.io/Teo_webdesign.github.io/
